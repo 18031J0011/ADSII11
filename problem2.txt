@@ -1,0 +1,31 @@
+Draw the adjacency graph representation for the input below.
+13
+13
+0 5
+4 3
+0 1
+9 12
+6 4
+5 4
+0 2
+11 12
+9 10
+0 6
+7 8
+9 11
+5 3
+
+Answer the above problem in a file name problem-2.txt and add it to the folder ADS-2-practice/m1
+Write code, perform a git commit, execute your code to verify if the program is correct
+Push the respository to GitHub when your program is done
+Enter the git commit ID in the blank below
+Do not use eval to submit this activity
+
+Ans:
+		0
+	     / / | \		7		12 - 9
+	     2 6 5  1		|		|  /|
+		\|\		8		11  10
+		 4-3
+		
+		
